@@ -1,5 +1,5 @@
 module.exports = {
     env: {
-        DOMAIN: "https://jessesavary.com"
+        DOMAIN: "https://www.jessesavary.com"
     }
 }
