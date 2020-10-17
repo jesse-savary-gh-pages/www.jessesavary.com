@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "gh-pages": "next export -o gh-pages"
   },
   "dependencies": {
     "next": "9.5.5",
