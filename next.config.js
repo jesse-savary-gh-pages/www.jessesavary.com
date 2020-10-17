@@ -1,5 +1,5 @@
 module.exports = {
-    // exportTrailingSlash: true,
+    trailingSlash: true,
     target: "serverless",
     env: {
         DOMAIN: "https://jessesavary.com"
